@@ -22,7 +22,7 @@ Este projeto não possui fins comerciais e foi criado apenas **para fins educaci
   <img src="assets/img/screen3.png" alt="Demonstração do Projeto" width="700"/>
 </p>
 
-[Site-Dreaming-Home](https://landing-page-homes.vercel.app/)
+[Senai-Page](https://senai-page.vercel.app/)
 
 ---
 
